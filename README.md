@@ -92,7 +92,7 @@ enable_tracing = false
 
 ![Dashboard](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/img/Task_3-Dashboard.png)
 
-![Alert](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/img/Task_3-Alert.png)
+![Alert](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/img/Task_3_Alert.png)
 
 ## Задание 4
 
