@@ -34,7 +34,7 @@ Grafana, prometheus-server и node-exporter устанавливал путём 
 
 [Конфиг](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/files/prometheus.yml)
 
-[Grafana](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/img/Task_1.png)
+![Grafana](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/img/Task_1.png)
 
 ## Задание 2
 
@@ -55,13 +55,13 @@ Grafana, prometheus-server и node-exporter устанавливал путём 
 
 **Ответ:**
 
-[CPU_Util](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/img/Task_2-CPU_Util.png)
+![CPU_Util](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/img/Task_2-CPU_Util.png)
 
-[CPULA](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/img/Task_2-CPULA.png)
+![CPULA](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/img/Task_2-CPULA.png)
 
-[Mem_free](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/img/Task_2-Mem_free.png)
+![Mem_free](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/img/Task_2-Mem_free.png)
 
-[Disk_free](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/img/Task_2-Disk_free.png)
+![Disk_free](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/img/Task_2-Disk_free.png)
 
 ## Задание 3
 
@@ -90,9 +90,9 @@ startTLS_policy =
 enable_tracing = false
 ```
 
-[Dashboard](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/img/Task_3-Dashboard.png)
+![Dashboard](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/img/Task_3-Dashboard.png)
 
-[Dashboard](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/img/Task_3-Alert.png)
+![Alert](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/img/Task_3-Alert.png)
 
 ## Задание 4
 
@@ -102,6 +102,7 @@ enable_tracing = false
 **Ответ:**
 
 [Dashboard](https://github.com/Lex-Chaos/10-monitoring-03-grafana-hw/blob/main/files/My_Dashboard.json)
+
 ---
 
 ### Как оформить решение задания
